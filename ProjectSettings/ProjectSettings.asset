@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: c4578cff84a06cb4bb8c6b1f9035df68
+  productGUID: 6818f9297d8a7f549afc63b7542b26e2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -749,10 +749,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 48b63ab9-576a-46d4-b7e7-d63e1980c758
+  cloudProjectId: 266e9d5e-8133-4953-b0dd-fbdcbbac1fd4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Kenny Jam 2024
+  projectName: Kenny Jam 2024 2024-07-18_15-39-18
   organizationId: rockercodes
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
