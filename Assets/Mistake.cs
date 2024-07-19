@@ -34,7 +34,7 @@ public class Mistake : MonoBehaviour
                 }
             }
             FindEffect();
-            //Play Sound
+            AudioSource.PlayClipAtPoint(GameAssets.i.findSFX, Camera.main.transform.position);
 
             Destroy(gameObject, 0f); //Destroy after particlesystem duration
         }
@@ -42,6 +42,6 @@ public class Mistake : MonoBehaviour
 
     public void FindEffect()
     {
-        //Play Effect
+        Instantiate(GameAssets.i.findParticale, gameObject.transform.position, Quaternion.identity);
     }
 }

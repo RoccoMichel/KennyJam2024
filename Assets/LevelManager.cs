@@ -35,7 +35,7 @@ public class LevelManager : MonoBehaviour
             _counting = false;
             _gameOver = true;
 
-            if (highscore >= time)
+            if (highscore <= time)
             {
                 mistakesText.text = $"[{TimerLogic(time)}]\nHighscore: {TimerLogic(highscore)}";
                 //GAME OVER
@@ -46,7 +46,7 @@ public class LevelManager : MonoBehaviour
                 PlayerPrefs.SetFloat(SceneManager.GetActiveScene().buildIndex.ToString(), time);
             }
         }
-        if (_gameOver) Options._paused = false;
+        if (_gameOver) Options._paused = true;
     }
 
     public void FoundMistake()
