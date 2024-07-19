@@ -14,7 +14,6 @@ public class Options : MonoBehaviour
 
     //STATICS
     public static int musicVolume;
-    public static int backUpMusicVol;
 
     void Start()
     {
@@ -37,55 +36,14 @@ public class Options : MonoBehaviour
             }
             else background.CrossFadeAlpha(0f, 0.2f, false);
         }
+
+        OptionsMenu.SetActive(_paused);
     }
 
-    void FixedUpdate()
+    public void SetVolume()
     {
-        if (_paused)
-        {
-            float size = OptionsMenu.transform.localScale.x;
-            float target = Mathf.Lerp(size, 1, 0.3f);
-            OptionsMenu.transform.localScale = new Vector3(target, target, target);
-        }
-        else if (!_paused && OptionsMenu.activeSelf)
-        {
-            float size = OptionsMenu.transform.localScale.x;
-            float target = Mathf.Lerp(size, 0, 0.3f);
-            OptionsMenu.transform.localScale = new Vector3(target, target, target);
-
-            if (size < 0.05f) OptionsMenu.SetActive(false);
-        }
-    }
-
-    public void SetVolume(Image musicOn)
-    {
-        _muted = false;
-        musicOn.CrossFadeAlpha(1, 0, true);
         musicVolume = (int)musicSlider.value;
         musicText.text = $"Vol {musicVolume}%";
         PlayerPrefs.SetFloat("music", musicVolume);
-    }
-    public void UnmuteVolume(Image musicOff)
-    {
-        musicOff.CrossFadeAlpha(0, 0, true);
-    }
-
-    bool _muted = false;
-    public void ToogleVolume(Image musicOn)
-    {
-        _muted = !_muted;
-
-        if (_muted)
-        {
-            backUpMusicVol = musicVolume;
-            musicVolume = 0;
-            musicOn.CrossFadeAlpha(0, 0, true);
-        }
-        else
-        {
-            musicVolume = backUpMusicVol;
-            musicOn.CrossFadeAlpha(1, 0, true);
-        }
-        musicText.text = $"Vol {musicVolume}%";
     }
 }

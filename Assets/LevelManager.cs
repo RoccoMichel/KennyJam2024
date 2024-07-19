@@ -46,6 +46,7 @@ public class LevelManager : MonoBehaviour
                 PlayerPrefs.SetFloat(SceneManager.GetActiveScene().buildIndex.ToString(), time);
             }
         }
+        if (_gameOver) Options._paused = false;
     }
 
     public void FoundMistake()
@@ -55,7 +56,7 @@ public class LevelManager : MonoBehaviour
     
     string TimerLogic(float time)
     {
-        if (Options._paused) return "[PAUSED]";
+        if (Options._paused) return "PAUSED";
 
         int minutes = Mathf.FloorToInt(time / 60);
         int seconds = Mathf.FloorToInt(time % 60);

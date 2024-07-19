@@ -12,11 +12,6 @@ public class MoveCamera : MonoBehaviour
     public Vector2 mixMaxRotation;
     public Vector2 mixMaxZoom;
 
-    void Start()
-    {
-
-    }
-
     void Update()
     {
         if (!Options._paused)
@@ -37,7 +32,7 @@ public class MoveCamera : MonoBehaviour
 
             //APPLYING
             transform.localScale = new Vector3(zoom, zoom, zoom);
-            transform.eulerAngles = new Vector3(rotation.x, rotation.y, 0f);
+            transform.eulerAngles = new Vector2(rotation.x, rotation.y);
         }
     }
 }
