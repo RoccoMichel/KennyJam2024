@@ -192,6 +192,6 @@ MonoBehaviour:
   rotation: {x: 10, y: 0}
   zoom: 1
   moveSpeed: 100
-  zoomSpeed: 25
+  zoomSpeed: 15
   mixMaxRotation: {x: 5, y: 30}
   mixMaxZoom: {x: 0.3, y: 3}

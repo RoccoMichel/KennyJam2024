@@ -18,6 +18,8 @@ public class Options : MonoBehaviour
 
     void Start()
     {
+        musicSlider.value = PlayerPrefs.GetFloat("music", 100f);
+        musicVolume = (int)musicSlider.value;
         musicText.text = $"Vol {musicVolume}%";
         _paused = false;
         background.CrossFadeAlpha(0f, 0f, true);
@@ -61,6 +63,7 @@ public class Options : MonoBehaviour
         musicOn.CrossFadeAlpha(1, 0, true);
         musicVolume = (int)musicSlider.value;
         musicText.text = $"Vol {musicVolume}%";
+        PlayerPrefs.SetFloat("music", musicVolume);
     }
     public void UnmuteVolume(Image musicOff)
     {
