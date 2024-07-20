@@ -45,8 +45,18 @@ public class LevelManager : MonoBehaviour
                 mistakesText.text = $"[{TimerLogic(time)}]\n!NEW HIGHSCORE!";
                 PlayerPrefs.SetFloat(SceneManager.GetActiveScene().buildIndex.ToString(), time);
             }
+
+
         }
-        if (_gameOver) Options._paused = true;
+        if (_gameOver) 
+        { 
+            Options._paused = true;
+            if (GameObject.Find("Options Menu/Title") != null)
+            {
+                GameObject.Find("Options Menu/Title").GetComponent<TMP_Text>().fontSize = 100;
+                GameObject.Find("Options Menu/Title").GetComponent<TMP_Text>().text = "LEVEL\nCOMPLETED!";
+            }
+        }
     }
 
     public void FoundMistake()

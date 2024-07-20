@@ -45,5 +45,7 @@ public class Options : MonoBehaviour
         musicVolume = (int)musicSlider.value;
         musicText.text = $"Vol {musicVolume}%";
         PlayerPrefs.SetFloat("music", musicVolume);
+
+        MusicManager.RefreshVolume();
     }
 }
