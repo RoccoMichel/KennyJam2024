@@ -7,11 +7,11 @@ public class MainMenu : MonoBehaviour
 {
     public List<GameObject> Levels = new();
 
-    private void Start()
+    void Start()
     {
         for (int i = 0; i < Levels.Count; i++)
         {
-            if (PlayerPrefs.GetFloat((i+1).ToString(), 0) != 0)
+            if (PlayerPrefs.GetFloat((i+1).ToString(), -1) != -1)
             {
                 GameObject.Find($"{Levels[i].name}/Text").GetComponent<TMP_Text>().text = TimerLogic(PlayerPrefs.GetFloat((i+1).ToString()));
 
@@ -32,6 +32,10 @@ public class MainMenu : MonoBehaviour
         Levels[0].GetComponent<Button>().enabled = true;
         if (GameObject.Find($"{Levels[0].name}/Locked") != null) GameObject.Find($"{Levels[0].name}/Locked").SetActive(false);
         GameObject.Find($"{Levels[0].name}/Text").GetComponent<TMP_Text>().text = TimerLogic(PlayerPrefs.GetFloat((0 + 1).ToString()));
+    }
+    void Update()
+    {
+        Options._paused = true;
     }
 
     public void QuitApplication()
