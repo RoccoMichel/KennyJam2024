@@ -26,7 +26,7 @@ public class LevelManager : MonoBehaviour
         if (_counting) mistakesText.text = $"[{TimerLogic(time)}]\n{mistakesLeft / 2}\nLEFT";
 
         //TIMER
-        if (_counting) time += Time.deltaTime;
+        if (_counting && !Options._paused) time += Time.deltaTime;
 
         //VICTORY
         if (mistakesLeft == 0 && !_gameOver)
