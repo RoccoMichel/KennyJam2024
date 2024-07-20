@@ -21,8 +21,8 @@ public class Options : MonoBehaviour
         musicVolume = (int)musicSlider.value;
         musicText.text = $"Vol {musicVolume}%";
         _paused = false;
-        background.CrossFadeAlpha(0f, 0f, true);
         OptionsMenu.SetActive(false);
+        if (background != null) background.CrossFadeAlpha(0f, 0f, true);
     }
     void Update()
     {
