@@ -21,7 +21,7 @@ public class MainMenu : MonoBehaviour
             }
             else if (i+1 < Levels.Count)
             {
-                if (i != 0) GameObject.Find($"{Levels[i].name}/Text").GetComponent<TMP_Text>().text = "LOCKED";
+                if (i != 0) GameObject.Find($"{Levels[i+1].name}/Text").GetComponent<TMP_Text>().text = "LOCKED";
 
                 Levels[i + 1].GetComponent<Button>().enabled = false;
                 GameObject.Find($"{Levels[i + 1].name}/Locked").SetActive(true);

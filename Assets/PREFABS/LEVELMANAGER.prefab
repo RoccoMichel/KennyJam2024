@@ -1155,6 +1155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6590932854887279500}
   - component: {fileID: 5368097314717669103}
+  - component: {fileID: 1505062991156653011}
   m_Layer: 0
   m_Name: LEVELMANAGER
   m_TagString: GameController
@@ -1196,6 +1197,14 @@ MonoBehaviour:
   _counting: 0
   _gameOver: 0
   mistakesText: {fileID: 8491661410818854294}
+--- !u!81 &1505062991156653011
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8078078588386097352}
+  m_Enabled: 1
 --- !u!1 &8143962078096726503
 GameObject:
   m_ObjectHideFlags: 0

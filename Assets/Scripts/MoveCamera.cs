@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class MoveCamera : MonoBehaviour
@@ -7,6 +8,7 @@ public class MoveCamera : MonoBehaviour
     public float zoom;
 
     [Header("Atributes")]
+    public float sensetivity;
     public float moveSpeed;
     public float zoomSpeed;
     public Vector2 mixMaxRotation;
@@ -20,6 +22,11 @@ public class MoveCamera : MonoBehaviour
             //rotating
             rotation.x += Input.GetAxisRaw("Vertical") * Time.deltaTime * moveSpeed;
             rotation.y -= Input.GetAxisRaw("Horizontal") * Time.deltaTime * moveSpeed;
+            if (Input.GetMouseButton(0))
+            {
+                rotation.x -= sensetivity * Input.GetAxis("Mouse Y");
+                rotation.y += sensetivity * Input.GetAxis("Mouse X");
+            }
 
             //zooming
             zoom -= Input.mouseScrollDelta.y * Time.deltaTime * zoomSpeed;

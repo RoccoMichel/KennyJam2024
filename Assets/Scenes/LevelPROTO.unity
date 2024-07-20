@@ -5367,7 +5367,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1461475649}
-  - component: {fileID: 1461475650}
   m_Layer: 0
   m_Name: side A
   m_TagString: Untagged
@@ -5394,14 +5393,6 @@ Transform:
   - {fileID: 1516835783}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!81 &1461475650
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1461475648}
-  m_Enabled: 1
 --- !u!1 &1465119089 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 269fcbac58ad5794c8e6166c8251089f, type: 3}

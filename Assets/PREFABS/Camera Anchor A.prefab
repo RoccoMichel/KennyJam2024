@@ -191,6 +191,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rotation: {x: 10, y: 0}
   zoom: 1
+  sensetivity: 2
   moveSpeed: 100
   zoomSpeed: 15
   mixMaxRotation: {x: 5, y: 30}
