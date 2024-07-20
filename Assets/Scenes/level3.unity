@@ -183,6 +183,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
       propertyPath: m_Name
       value: tile_crystal (1)
@@ -248,6 +252,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1ac1bbe26239a16438869ce9d27606c1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1ac1bbe26239a16438869ce9d27606c1, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -6530102112526756489, guid: 1ac1bbe26239a16438869ce9d27606c1, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -327,6 +335,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
       value: tile_straight (3)
@@ -397,6 +409,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (37)
@@ -463,6 +479,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (25)
@@ -524,6 +544,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -591,6 +615,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (34)
@@ -652,6 +680,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
@@ -723,6 +755,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -828,6 +864,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
@@ -985,6 +1025,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (6)
@@ -1046,6 +1090,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -1109,6 +1157,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (7)
@@ -1170,6 +1222,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -1299,6 +1355,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (6)
@@ -1416,6 +1476,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (1)
@@ -1490,6 +1554,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: eb15c1e422cc42843a3b04cff6970454, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: eb15c1e422cc42843a3b04cff6970454, type: 3}
       propertyPath: m_Name
       value: towerSquare_sampleE
@@ -1547,6 +1615,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (1)
@@ -1603,6 +1675,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -1834,6 +1910,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (11)
@@ -1899,6 +1979,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
       propertyPath: m_Name
@@ -1969,6 +2053,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -2106,6 +2194,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (26)
@@ -2175,6 +2267,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -2312,6 +2408,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (21)
@@ -2422,6 +2522,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (4)
@@ -2483,6 +2587,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -2550,6 +2658,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (14)
@@ -2612,6 +2724,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (4)
@@ -2673,6 +2789,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_Name
@@ -2740,6 +2860,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (23)
@@ -2801,6 +2925,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -2868,6 +2996,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (19)
@@ -2934,6 +3066,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (26)
@@ -2995,6 +3131,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
@@ -3110,6 +3250,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (18)
@@ -3171,6 +3315,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -3328,6 +3476,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (6)
@@ -3464,6 +3616,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (2)
@@ -3534,6 +3690,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (32)
@@ -3600,6 +3760,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (11)
@@ -3661,6 +3825,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -3724,6 +3892,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (9)
@@ -3785,6 +3957,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 37864db29bf29f54d9a0ed0edabf2f84, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 37864db29bf29f54d9a0ed0edabf2f84, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 37864db29bf29f54d9a0ed0edabf2f84, type: 3}
       propertyPath: m_Name
@@ -3896,6 +4072,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
@@ -4103,6 +4283,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (13)
@@ -4173,6 +4357,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -4310,6 +4498,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (12)
@@ -4371,6 +4563,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
@@ -4434,6 +4630,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
       value: tile_treeQuad (4)
@@ -4495,6 +4695,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_Name
@@ -4563,6 +4767,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile
@@ -4629,6 +4837,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (36)
@@ -4690,6 +4902,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -4756,6 +4972,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -4889,6 +5109,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f65eafe3ae801d84ca236a0c525cce9b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f65eafe3ae801d84ca236a0c525cce9b, type: 3}
       propertyPath: m_Name
       value: weapon_cannon
@@ -4951,6 +5175,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
       value: tile_cornerRound
@@ -5007,6 +5235,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
@@ -5070,6 +5302,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (16)
@@ -5131,6 +5367,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ff56376f24643b94db470510093f505e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ff56376f24643b94db470510093f505e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ff56376f24643b94db470510093f505e, type: 3}
       propertyPath: m_Name
@@ -5194,6 +5434,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (14)
@@ -5255,6 +5499,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
       propertyPath: m_Name
@@ -5322,6 +5570,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (22)
@@ -5383,6 +5635,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: d4f0d1e83578b774aaa38a9a88cb723a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d4f0d1e83578b774aaa38a9a88cb723a, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d4f0d1e83578b774aaa38a9a88cb723a, type: 3}
       propertyPath: m_Name
@@ -5447,6 +5703,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 3879cb76e9c03c145804083f58513048, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3879cb76e9c03c145804083f58513048, type: 3}
       propertyPath: m_Name
       value: tile_bump
@@ -5509,6 +5769,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (13)
@@ -5570,6 +5834,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -5637,6 +5905,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (30)
@@ -5698,6 +5970,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -5831,6 +6107,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d4f0d1e83578b774aaa38a9a88cb723a, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -5754084199372789682, guid: d4f0d1e83578b774aaa38a9a88cb723a, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -5950,6 +6230,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (9)
@@ -6012,6 +6296,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (5)
@@ -6073,6 +6361,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
@@ -6291,6 +6583,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
       value: tile_cornerRound (1)
@@ -6356,6 +6652,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -6423,6 +6723,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (24)
@@ -6485,6 +6789,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
       value: tile_straight (2)
@@ -6546,6 +6854,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -6612,6 +6924,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -6711,6 +7027,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
       value: tile_treeQuad
@@ -6767,6 +7087,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
@@ -6911,6 +7235,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (3)
@@ -6976,6 +7304,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -7043,6 +7375,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (16)
@@ -7108,6 +7444,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -7183,6 +7523,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: eb15c1e422cc42843a3b04cff6970454, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: eb15c1e422cc42843a3b04cff6970454, type: 3}
       propertyPath: m_Name
       value: towerSquare_sampleE
@@ -7244,6 +7588,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -7307,6 +7655,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (7)
@@ -7369,6 +7721,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (5)
@@ -7430,6 +7786,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -7503,6 +7863,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_Name
       value: tile_treeDouble (1)
@@ -7564,6 +7928,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
@@ -7627,6 +7995,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
       value: tile_tree (2)
@@ -7689,6 +8061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
       value: tile_straight (4)
@@ -7750,6 +8126,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -7817,6 +8197,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (21)
@@ -7883,6 +8267,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (15)
@@ -7944,6 +8332,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4940ea621f8f45542b7b6220ef3c3b7d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4940ea621f8f45542b7b6220ef3c3b7d, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4940ea621f8f45542b7b6220ef3c3b7d, type: 3}
       propertyPath: m_Name
@@ -8009,6 +8401,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -8175,6 +8571,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (22)
@@ -8248,6 +8648,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalScale.y
@@ -8339,6 +8743,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.5396
@@ -8428,6 +8836,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_Name
@@ -8562,6 +8974,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (3)
@@ -8623,6 +9039,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -8760,6 +9180,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2f697c45608a4754c94698ea6dcd2230, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2f697c45608a4754c94698ea6dcd2230, type: 3}
       propertyPath: m_Name
       value: tile_riverFall
@@ -8829,6 +9253,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -8900,6 +9328,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (31)
@@ -8967,6 +9399,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
       value: tile_cornerRound (4)
@@ -9033,6 +9469,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (16)
@@ -9095,6 +9535,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
       value: tile_straight
@@ -9151,6 +9595,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -9222,6 +9670,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -9299,6 +9751,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (30)
@@ -9361,6 +9817,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (9)
@@ -9422,6 +9882,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9496,6 +9960,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (17)
@@ -9558,6 +10026,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (8)
@@ -9619,6 +10091,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -9756,6 +10232,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
       value: tile_straight (3)
@@ -9823,6 +10303,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
       value: tile_tree (3)
@@ -9888,6 +10372,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -9955,6 +10443,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (14)
@@ -10017,6 +10509,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_Name
       value: tile_split
@@ -10078,6 +10574,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -10145,6 +10645,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (10)
@@ -10207,6 +10711,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (18)
@@ -10268,6 +10776,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
@@ -10401,6 +10913,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 92ab6634026fe4341a0c7dc2bd420bce, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 92ab6634026fe4341a0c7dc2bd420bce, type: 3}
       propertyPath: m_Name
       value: tile_riverCorner
@@ -10463,6 +10979,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter
@@ -10524,6 +11044,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ad02a365bfa74741b2d5998b2f88498, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4ad02a365bfa74741b2d5998b2f88498, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4ad02a365bfa74741b2d5998b2f88498, type: 3}
       propertyPath: m_Name
@@ -10646,6 +11170,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (18)
@@ -10707,6 +11235,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -10843,6 +11375,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (2)
@@ -10905,6 +11441,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (12)
@@ -10966,6 +11506,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -11032,6 +11576,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -11244,6 +11792,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
       propertyPath: m_Name
       value: tile_riverTransition
@@ -11300,6 +11852,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_Name
@@ -11440,6 +11996,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -11709,6 +12269,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (8)
@@ -11865,6 +12429,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (14)
@@ -11927,6 +12495,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
       value: tile_straight (4)
@@ -11988,6 +12560,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -12121,6 +12697,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (28)
@@ -12182,6 +12762,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -12245,6 +12829,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (7)
@@ -12306,6 +12894,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -7392225327938827759, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_Name
@@ -12390,6 +12982,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2961d2556b172d1409c66707dac04c63, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2961d2556b172d1409c66707dac04c63, type: 3}
       propertyPath: m_Name
       value: weapon_blaster
@@ -12451,6 +13047,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -12561,6 +13161,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (23)
@@ -12622,6 +13226,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
@@ -12689,6 +13297,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (20)
@@ -12751,6 +13363,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
       value: tile_cornerRound (4)
@@ -12812,6 +13428,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 290e6f3386a57d547b45ef9b01a4703e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 290e6f3386a57d547b45ef9b01a4703e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 290e6f3386a57d547b45ef9b01a4703e, type: 3}
       propertyPath: m_Name
@@ -12879,6 +13499,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (27)
@@ -12940,6 +13564,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
       propertyPath: m_Name
@@ -13004,6 +13632,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (4)
@@ -13065,6 +13697,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ea0f2145bba3e4a4f82e90009b523572, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0f2145bba3e4a4f82e90009b523572, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -5754084199372789682, guid: ea0f2145bba3e4a4f82e90009b523572, type: 3}
       propertyPath: m_Mesh
@@ -13180,6 +13816,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: be17cb9c396e6c8458fddc779f3877ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: be17cb9c396e6c8458fddc779f3877ab, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -7370206927948375810, guid: be17cb9c396e6c8458fddc779f3877ab, type: 3}
       propertyPath: m_Mesh
@@ -13353,6 +13993,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (7)
@@ -13415,6 +14059,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2f697c45608a4754c94698ea6dcd2230, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2f697c45608a4754c94698ea6dcd2230, type: 3}
       propertyPath: m_Name
       value: tile_riverFall
@@ -13475,6 +14123,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -13537,6 +14189,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ce65539afde25f5479cb16fc092db5cf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ce65539afde25f5479cb16fc092db5cf, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ce65539afde25f5479cb16fc092db5cf, type: 3}
       propertyPath: m_Name
@@ -13601,6 +14257,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
       value: tile_treeQuad (4)
@@ -13662,6 +14322,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13741,6 +14405,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (20)
@@ -13802,6 +14470,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
@@ -13865,6 +14537,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (2)
@@ -13926,6 +14602,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -13997,6 +14677,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -14072,6 +14756,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -14146,6 +14834,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -1499549837338632917, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_Name
       value: MISTAKE
@@ -14218,6 +14910,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f65eafe3ae801d84ca236a0c525cce9b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f65eafe3ae801d84ca236a0c525cce9b, type: 3}
       propertyPath: m_Name
       value: weapon_cannon
@@ -14274,6 +14970,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -14337,6 +15037,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0106f8e297891cc48a122ea5babd19d1, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0106f8e297891cc48a122ea5babd19d1, type: 3}
       propertyPath: m_Name
       value: tile_transition
@@ -14393,6 +15097,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
@@ -14460,6 +15168,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (33)
@@ -14522,6 +15234,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a4b91c1cb26036d40816472dd6a1112d, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a4b91c1cb26036d40816472dd6a1112d, type: 3}
       propertyPath: m_Name
       value: tile_straightHill
@@ -14578,6 +15294,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0106f8e297891cc48a122ea5babd19d1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0106f8e297891cc48a122ea5babd19d1, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0106f8e297891cc48a122ea5babd19d1, type: 3}
       propertyPath: m_Name
@@ -14650,6 +15370,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (15)
@@ -14712,6 +15436,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (8)
@@ -14773,6 +15501,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
@@ -14919,6 +15651,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
@@ -15069,6 +15805,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (12)
@@ -15130,6 +15870,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -15193,6 +15937,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (11)
@@ -15254,6 +16002,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -15387,6 +16139,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (20)
@@ -15449,6 +16205,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
       propertyPath: m_Name
       value: tile_crystal
@@ -15510,6 +16270,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -15578,6 +16342,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (2)
@@ -15645,6 +16413,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (15)
@@ -15711,6 +16483,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (18)
@@ -15773,6 +16549,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (10)
@@ -15834,6 +16614,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: b91bfd7f995fd8442bac706833905aa9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b91bfd7f995fd8442bac706833905aa9, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b91bfd7f995fd8442bac706833905aa9, type: 3}
       propertyPath: m_Name
@@ -15967,6 +16751,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -7392225327938827759, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_Name
       value: MISTAKE
@@ -16086,6 +16874,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
       value: tile_cornerRound (2)
@@ -16151,6 +16943,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -16284,6 +17080,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ad9d231c47550bb478fe0d9263b76e8f, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ad9d231c47550bb478fe0d9263b76e8f, type: 3}
       propertyPath: m_Name
       value: tile_endSpawn
@@ -16416,6 +17216,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter
@@ -16488,6 +17292,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 2961d2556b172d1409c66707dac04c63, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2961d2556b172d1409c66707dac04c63, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2961d2556b172d1409c66707dac04c63, type: 3}
       propertyPath: m_Name
@@ -16612,6 +17420,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (9)
@@ -16677,6 +17489,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -16745,6 +17561,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (6)
@@ -16812,6 +17632,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (14)
@@ -16878,6 +17702,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (17)
@@ -16940,6 +17768,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner
@@ -17001,6 +17833,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -17068,6 +17904,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
@@ -17225,6 +18065,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 293fdf57573bb1c46a572eda16a1da44, type: 3}
       propertyPath: m_Name
       value: tile_cornerSquare (2)
@@ -17287,6 +18131,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 37864db29bf29f54d9a0ed0edabf2f84, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 37864db29bf29f54d9a0ed0edabf2f84, type: 3}
       propertyPath: m_Name
       value: weapon_catapult
@@ -17343,6 +18191,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -17481,6 +18333,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
       value: tile_treeQuad (5)
@@ -17542,6 +18398,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -17703,6 +18563,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (21)
@@ -17773,6 +18637,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (32)
@@ -17835,6 +18703,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (12)
@@ -17896,6 +18768,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1f5366086dec3a740a6299ab1b1ffbf5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1f5366086dec3a740a6299ab1b1ffbf5, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1f5366086dec3a740a6299ab1b1ffbf5, type: 3}
       propertyPath: m_Name
@@ -18077,6 +18953,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (4)
@@ -18143,6 +19023,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (10)
@@ -18208,6 +19092,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -18341,6 +19229,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (1)
@@ -18406,6 +19298,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -18539,6 +19435,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
       value: tile_cornerRound (1)
@@ -18671,6 +19571,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (12)
@@ -18732,6 +19636,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 973eac6f08b84624996ffc64f1e39309, type: 3}
       propertyPath: m_Name
@@ -18799,6 +19707,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (24)
@@ -18864,6 +19776,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -18935,6 +19851,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (17)
@@ -19001,6 +19921,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (12)
@@ -19066,6 +19990,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -19138,6 +20066,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (23)
@@ -19200,6 +20132,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
       value: tile_tree (4)
@@ -19261,6 +20197,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: be17cb9c396e6c8458fddc779f3877ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: be17cb9c396e6c8458fddc779f3877ab, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: be17cb9c396e6c8458fddc779f3877ab, type: 3}
       propertyPath: m_Name
@@ -19371,6 +20311,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
       value: tile_treeQuad (2)
@@ -19466,6 +20410,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (1)
@@ -19533,6 +20481,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope
@@ -19599,6 +20551,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (28)
@@ -19661,6 +20617,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 92ab6634026fe4341a0c7dc2bd420bce, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 92ab6634026fe4341a0c7dc2bd420bce, type: 3}
       propertyPath: m_Name
       value: tile_riverCorner
@@ -19722,6 +20682,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -19790,6 +20754,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 745b31e680fd2c3499faf3b907c8e17f, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 745b31e680fd2c3499faf3b907c8e17f, type: 3}
       propertyPath: m_Name
       value: tile_endRoundSpawn
@@ -19846,6 +20814,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -19979,6 +20951,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (1)
@@ -20111,6 +21087,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile
@@ -20171,6 +21151,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -20233,6 +21217,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -20304,6 +21292,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (31)
@@ -20365,6 +21357,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -20428,6 +21424,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (15)
@@ -20490,6 +21490,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_Name
       value: tile_rock
@@ -20546,6 +21550,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -20609,6 +21617,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (1)
@@ -20670,6 +21682,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -20742,6 +21758,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (14)
@@ -20803,6 +21823,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -20866,6 +21890,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope
@@ -20922,6 +21950,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_Name
@@ -21022,6 +22054,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ff56376f24643b94db470510093f505e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ff56376f24643b94db470510093f505e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ff56376f24643b94db470510093f505e, type: 3}
       propertyPath: m_Name
@@ -21216,6 +22252,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
       value: tile_treeQuad (3)
@@ -21290,6 +22330,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
       propertyPath: m_Name
       value: tile_crystal (1)
@@ -21351,6 +22395,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4940ea621f8f45542b7b6220ef3c3b7d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4940ea621f8f45542b7b6220ef3c3b7d, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4940ea621f8f45542b7b6220ef3c3b7d, type: 3}
       propertyPath: m_Name
@@ -21414,6 +22462,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (2)
@@ -21476,6 +22528,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (19)
@@ -21537,6 +22593,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 745b31e680fd2c3499faf3b907c8e17f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 745b31e680fd2c3499faf3b907c8e17f, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 745b31e680fd2c3499faf3b907c8e17f, type: 3}
       propertyPath: m_Name
@@ -21674,6 +22734,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ad9d231c47550bb478fe0d9263b76e8f, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ad9d231c47550bb478fe0d9263b76e8f, type: 3}
       propertyPath: m_Name
       value: tile_endSpawn
@@ -21736,6 +22800,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_Name
       value: tile_treeDouble (2)
@@ -21797,6 +22865,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -21864,6 +22936,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (18)
@@ -21930,6 +23006,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (19)
@@ -21992,6 +23072,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (5)
@@ -22053,6 +23137,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -22127,6 +23215,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22250,6 +23342,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
       value: tile_tree (1)
@@ -22315,6 +23411,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1ac1bbe26239a16438869ce9d27606c1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1ac1bbe26239a16438869ce9d27606c1, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -6530102112526756489, guid: 1ac1bbe26239a16438869ce9d27606c1, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -22431,6 +23531,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -22646,6 +23750,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.5396
@@ -22724,6 +23832,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4ad02a365bfa74741b2d5998b2f88498, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4ad02a365bfa74741b2d5998b2f88498, type: 3}
       propertyPath: m_Name
       value: towerRound_sampleC
@@ -22780,6 +23892,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ce65539afde25f5479cb16fc092db5cf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ce65539afde25f5479cb16fc092db5cf, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -5754084199372789682, guid: ce65539afde25f5479cb16fc092db5cf, type: 3}
       propertyPath: m_Mesh
@@ -22896,6 +24012,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (6)
@@ -22957,6 +24077,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -23020,6 +24144,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_Name
       value: tile_treeDouble (1)
@@ -23082,6 +24210,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (4)
@@ -23143,6 +24275,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
       propertyPath: m_Name
@@ -23217,6 +24353,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -3676039708152716739, guid: aa136aa25b5484542a94ece77d3d5a70, type: 3}
       propertyPath: m_LocalScale.y
@@ -23296,6 +24436,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (13)
@@ -23358,6 +24502,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 290e6f3386a57d547b45ef9b01a4703e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 290e6f3386a57d547b45ef9b01a4703e, type: 3}
       propertyPath: m_Name
       value: tile_riverStraight
@@ -23418,6 +24566,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
@@ -23480,6 +24632,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -23547,6 +24703,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_Name
@@ -23679,6 +24839,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 3879cb76e9c03c145804083f58513048, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3879cb76e9c03c145804083f58513048, type: 3}
       propertyPath: m_Name
       value: tile_bump
@@ -23735,6 +24899,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -23868,6 +25036,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b91bfd7f995fd8442bac706833905aa9, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b91bfd7f995fd8442bac706833905aa9, type: 3}
       propertyPath: m_Name
       value: woodStructure_high
@@ -23930,6 +25102,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner
@@ -23986,6 +25162,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 54a63f849263c604a945839e67bd5be0, type: 3}
       propertyPath: m_Name
@@ -24123,6 +25303,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
       value: tile (16)
@@ -24185,6 +25369,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1f5366086dec3a740a6299ab1b1ffbf5, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1f5366086dec3a740a6299ab1b1ffbf5, type: 3}
       propertyPath: m_Name
       value: tile_riverBridge
@@ -24246,6 +25434,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -24313,6 +25505,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (9)
@@ -24379,6 +25575,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (15)
@@ -24440,6 +25640,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -24507,6 +25711,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (12)
@@ -24572,6 +25780,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -24639,6 +25851,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4a9598f7997b29148ae9ad7e2796fc77, type: 3}
       propertyPath: m_Name
       value: tile_riverTransition (1)
@@ -24705,6 +25921,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (19)
@@ -24766,6 +25986,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -1499549837338632917, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_Name
@@ -24886,6 +26110,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 17d69970b26a56f4da6459282f89e78b, type: 3}
       propertyPath: m_Name
       value: tile_straight (2)
@@ -24948,6 +26176,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a4b91c1cb26036d40816472dd6a1112d, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a4b91c1cb26036d40816472dd6a1112d, type: 3}
       propertyPath: m_Name
       value: tile_straightHill
@@ -25009,6 +26241,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
@@ -25083,6 +26319,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 25518d9c39899514a9ebdb83066e1368, type: 3}
       propertyPath: m_Name
@@ -25224,6 +26464,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -25548,6 +26792,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (5)
@@ -25609,6 +26857,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4d790dbad52c9604385484c0c7f52735, type: 3}
       propertyPath: m_Name
@@ -25741,6 +26993,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 227d2da92cbebf645b5549079d09bcc8, type: 3}
       propertyPath: m_Name
       value: tile_cornerInner (6)
@@ -25838,6 +27094,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2c4e1382fa2b7354bbbec8c6298eebe6, type: 3}
       propertyPath: m_Name
@@ -26083,6 +27343,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0d2acf91295f66748b7a357c6eafab79, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d2acf91295f66748b7a357c6eafab79, type: 3}
       propertyPath: m_Name
       value: towerSquare_sampleB
@@ -26139,6 +27403,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5b3b444d28540404b8786f857e82ecda, type: 3}
       propertyPath: m_Name
@@ -26201,6 +27469,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
@@ -26334,6 +27606,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0d2acf91295f66748b7a357c6eafab79, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d2acf91295f66748b7a357c6eafab79, type: 3}
       propertyPath: m_Name
       value: towerSquare_sampleB
@@ -26395,6 +27671,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
@@ -26528,6 +27808,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (11)
@@ -26637,6 +27921,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6eded25d1d8b7347aafaaa65db480a0, type: 3}
       propertyPath: m_Name
       value: tile_cornerOuter (13)
@@ -26703,6 +27991,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 847dd1b3999513445b33a5449ccb8d6e, type: 3}
       propertyPath: m_Name
       value: tile_slope (29)
@@ -26764,6 +28056,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ea0f2145bba3e4a4f82e90009b523572, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0f2145bba3e4a4f82e90009b523572, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ea0f2145bba3e4a4f82e90009b523572, type: 3}
       propertyPath: m_Name
@@ -26828,6 +28124,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67772617d7c38e44b9540e64c9568c25, type: 3}
       propertyPath: m_Name
       value: tile_treeQuad (1)
@@ -26889,6 +28189,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1971a2e8fd0dff547a023d6489ca5a4b, type: 3}
       propertyPath: m_Name
