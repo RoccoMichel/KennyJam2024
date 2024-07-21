@@ -22,7 +22,7 @@ public class MoveCamera : MonoBehaviour
             //rotating
             rotation.x += Input.GetAxisRaw("Vertical") * Time.deltaTime * moveSpeed;
             rotation.y -= Input.GetAxisRaw("Horizontal") * Time.deltaTime * moveSpeed;
-            if (Input.GetMouseButton(0))
+            if (Input.GetMouseButton(1))
             {
                 rotation.x -= sensetivity * Input.GetAxis("Mouse Y");
                 rotation.y += sensetivity * Input.GetAxis("Mouse X");
