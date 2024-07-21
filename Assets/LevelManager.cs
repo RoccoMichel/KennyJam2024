@@ -31,7 +31,7 @@ public class LevelManager : MonoBehaviour
         //VICTORY
         if (mistakesLeft == 0 && !_gameOver)
         {
-            float highscore = PlayerPrefs.GetFloat(SceneManager.GetActiveScene().buildIndex.ToString(), 0);
+            float highscore = PlayerPrefs.GetFloat(SceneManager.GetActiveScene().buildIndex.ToString(), 9999999999999);
             _counting = false;
             _gameOver = true;
 

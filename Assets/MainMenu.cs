@@ -11,7 +11,7 @@ public class MainMenu : MonoBehaviour
     {
         for (int i = 0; i < Levels.Count; i++)
         {
-            GameObject.Find($"{Levels[i].name}/Text").GetComponent<TMP_Text>().text = $"[{TimerLogic(PlayerPrefs.GetFloat((i + 1).ToString()))}]";
+            GameObject.Find($"{Levels[i].name}/Text").GetComponent<TMP_Text>().text = $"[{TimerLogic(PlayerPrefs.GetFloat((i + 1).ToString(), -1))}]";
         }
     }
     void Update()
